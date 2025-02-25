@@ -1,7 +1,7 @@
 # 📊 Discounted Cash Flow (DCF) Modeling
 
 ## 📌 Project Overview
-This project showcases the **Discounted Cash Flow (DCF) Model**, a widely used valuation technique to estimate a company’s intrinsic value. The model analyses historical financials, forecasts future cash flows, and discounts them to present value to determine enterprise and equity value.
+This project showcases the **Discounted Cash Flow (DCF) Model**, a widely used valuation technique to estimate a company’s intrinsic value. The model analyzes historical financials, forecasts future cash flows, and discounts them to present value to determine enterprise and equity value.
 
 ### 🔹 Key Features
 - **Financial forecasting** based on historical data and fundamental assumptions.
